@@ -1,12 +1,10 @@
-******Data Cleaning and EDA**********
-
-This project demonstrates essential data preprocessing and analysis techniques used to prepare raw datasets for advanced modeling and research. It highlights both the technical and analytical skills required to ensure data quality before applying machine learning or deep learning methods.
+This project demonstrates data preprocessing and analysis techniques to prepare a raw dataset for advanced modeling and research. It highlights the technical and analytical skills to ensure data quality before applying machine learning or deep learning methods.
 
 **About the Project**
 
-- Data Cleaning: Focused on identifying inconsistencies, handling missing values, correcting errors, and improving dataset reliability.
+- Data Cleaning: Identifying inconsistencies, handling missing values, correcting errors, and improving reliability.
 
-- Exploratory Data Analysis (EDA): Involves summarizing and visualizing data distributions to uncover patterns, trends, and correlations that inform downstream modeling decisions.
+- Exploratory Data Analysis (EDA): Summarizing and visualizing data distributions to uncover patterns, trends, and correlations
 
 **Objectives**
 
@@ -22,6 +20,5 @@ This project demonstrates essential data preprocessing and analysis techniques u
 
 - Visual analysis using descriptive statistics and plots
 
-**Skills Demonstrated**
-
-Python | Pandas | NumPy | Matplotlib | Seaborn | Data Preprocessing | Statistical Analysis
+**Dataset**
+https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data 
